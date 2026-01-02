@@ -119,7 +119,7 @@ Contributions are welcome.
 
 ## 📜 License
 
-MIT License
+GPLv3 License
 
 ---
 
