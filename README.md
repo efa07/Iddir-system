@@ -1,30 +1,129 @@
-# Ethiopian community app
+# 🇪🇹 Iddir Digital Platform
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+**Modernizing Ethiopia’s Traditional Social Safety Net**
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/efa07s-projects/v0-ethiopian-community-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/hiTImZGDEPy)
+## 📌 Overview
 
-## Overview
+Iddir is one of Ethiopia’s most enduring indigenous community institutions, built on mutual aid, trust, and social cohesion. This project aims to **digitize and modernize the traditional Iddir system** while preserving its cultural values.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+The platform enables Iddir groups to manage members, contributions, emergency support, and community initiatives digitally — improving transparency, efficiency, and accessibility.
 
-## Deployment
+---
 
-Your project is live at:
+## 🎯 Problem Statement
 
-**[https://vercel.com/efa07s-projects/v0-ethiopian-community-app](https://vercel.com/efa07s-projects/v0-ethiopian-community-app)**
+Traditional Iddirs face several modern challenges:
 
-## Build your app
+- Manual record keeping and cash handling  
+- Limited transparency and accountability  
+- Difficulty scaling beyond local communities  
+- No digital contribution or support history  
+- Low engagement from younger, tech-savvy members  
 
-Continue building your app on:
+This project addresses these issues through a secure, user-friendly digital system tailored for Ethiopian Iddirs.
 
-**[https://v0.app/chat/hiTImZGDEPy](https://v0.app/chat/hiTImZGDEPy)**
+---
 
-## How It Works
+## 🚀 Features
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 👥 Member Management
+- Member registration and profile management
+- Role-based access (Admin, Treasurer, Member)
+- Contribution history tracking
+
+### 💰 Contributions & Payments
+- Monthly and emergency contribution tracking
+- Automated contribution reminders
+- Payment integration ready (Telebirr, CBE Birr – planned)
+
+### ⚰️ Mutual Aid & Emergency Support
+- Funeral and emergency case registration
+- Automatic contribution calculation
+- Transparent disbursement records
+
+### 📊 Transparency & Reports
+- Financial summaries
+- Contribution and payout reports
+- Digital audit trail
+
+### 🤝 Community Development
+- Manage community projects
+- Track donations and participation
+
+### 🔐 Governance & Rules
+- Digitized bylaws and rules
+- Penalty and compliance tracking
+- Announcements and notifications
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Next.js
+- React
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js (or NestJS)
+- REST APIs
+
+### Database
+- PostgreSQL
+- Prisma ORM
+
+### Authentication
+- JWT-based authentication
+- Role-based authorization
+
+---
+
+---
+
+## 🧪 Project Status
+
+🚧 **In Development**
+
+Planned milestones:
+- [ ] Authentication & role management
+- [ ] Member & contribution modules
+- [ ] Emergency support workflow
+- [ ] Reporting & analytics
+- [ ] Payment integration
+- [ ] Mobile-first UI
+
+---
+
+## 🌍 Vision & Impact
+
+This platform aims to:
+
+- Preserve Ethiopia’s indigenous social institutions
+- Improve transparency and trust
+- Strengthen community resilience
+- Serve as a model for digital civic institutions in Africa
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository  
+2. Create a feature branch  
+3. Commit your changes  
+4. Open a pull request  
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
+## 🙌 Acknowledgment
+
+Inspired by the Ethiopian tradition of **Iddir** — a symbol of solidarity, compassion, and collective resilience.
+
